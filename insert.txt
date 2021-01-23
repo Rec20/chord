@@ -1,0 +1,1 @@
+INSERT INTO `song` (`name`,`key`,`major`,`artist`,`writer`,`composer`) VALUES ('イジワルしないで抱きしめてよ','D',0,'Juice=Juice','つんく','つんく');

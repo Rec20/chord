@@ -1,0 +1,1 @@
+INSERT INTO `chord` (`name`,`song_id`,`row`,`column`) VALUES ('Am',1,1,0);

@@ -1,0 +1,145 @@
+ul {
+	list-style: none;
+}
+
+.song-list{
+	cursor: pointer;
+}
+
+.create-song{
+	float: right; 
+}
+
+.edit-song{
+	float: right;
+}
+
+.chord{
+	font-size: 3vw;
+	padding-right: 2vw;
+	padding-left: 2vw;
+	font-weight: bold;
+}
+
+.lyric{
+	margin-top: 10px;
+	font-size: 3vw;
+	padding-right: 2vw;
+	padding-left: 2vw;
+	font-weight: bold;
+}
+
+.inputChord{
+	width: 100%;
+}
+
+.inputLyric{
+	width: 100%;
+}
+
+#addArea{
+	padding: 10px;
+}
+
+.addBtn{
+	display: block;
+	margin: 0 0 0 auto;
+}
+
+.hide{
+	display: hidden;
+}
+
+.container-box{
+	margin: 3vw;
+}
+
+.key-controller{
+	position: fixed;
+	padding-right: 3vw;
+	padding-left: 3vw;
+	width: 25vw;
+	bottom: 1vh;
+	right: 3vw;
+	height: 66vh;
+	background: rgba(128,128,128,0.5);
+}
+
+.key-up{
+	height: 6vh;
+	margin-top: 2vh;
+	padding-top: 1vh;
+	width: 100%;
+	font-size: 2vh;
+	font-weight: bolder;
+}
+
+.key-down{
+	height: 6vh;
+	margin-top: 2vh;
+	padding-top: 1vh;
+	width: 100%;
+	font-size: 2vh;
+	text-align: center;
+	font-weight: bolder;
+}
+
+.key-original{
+	height: 6vh;
+	margin-top: 2vh;
+	padding-top: 1vh;
+	width: 100%;
+	font-size: 2vh;
+	font-weight: bolder;
+}
+
+.capo{
+	height: 6vh;
+	margin-top: 2vh;
+	padding-top: 1vh;
+	width: 100%;
+	font-size: 2vh;
+	text-align: center;
+	background-color: white;
+	font-weight: bolder;
+	border-radius: 3px;
+}
+
+.speed{
+	height: 6vh;
+	margin-top: 2vh;
+	padding-top: 1vh;
+	width: 100%;
+	font-size: 2vh;
+	text-align: center;
+	background-color: white;
+	font-weight: bolder;
+	border-radius: 3px;
+}
+
+.speed-up{
+	height: 6vh;
+	margin-top: 2vh;
+	padding-top: 1vh;
+	width: 100%;
+	font-size: 2vh;
+	font-weight: bolder;
+}
+
+.speed-down{
+	height: 6vh;
+	margin-top: 2vh;
+	padding-top: 1vh;
+	width: 100%;
+	font-size: 2vh;
+	font-weight: bolder;
+}
+
+.toggle-controller{
+	height: 6vh;
+	margin-top: 2vh;
+	padding-top: 1vh;
+	width: 100%;
+	font-size: 2vh;
+	font-weight: bolder;
+}
