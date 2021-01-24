@@ -1,1 +1,0 @@
-INSERT INTO `lyric` (`text`,`song_id`,`row`) VALUES ('ねぇねぇ私のどこが好きよ　ねぇねえ触ってみて',1,2);
