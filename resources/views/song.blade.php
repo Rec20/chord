@@ -35,7 +35,7 @@
 </div>
 <div class="container-box chord-area">
     <div class="panel panel-default">
-        <div class="panel-heading">Chord and Lyric</div>
+        <div class="panel-heading">Chords and Lyrics</div>
         <hr style="margin-top: 0">
         @foreach ($songContents as $songContent)
         <div class="chord">{{ $songContent['chord'] }}</div>
